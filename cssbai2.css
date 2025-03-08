@@ -1,0 +1,29 @@
+.headr {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 17px;
+}
+.home {
+   background-color: #ddd;
+      padding: 10px;
+  
+   
+    
+}
+
+body {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    
+}
+
+.home a {
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(40, 22, 0);
+
+}
+
+

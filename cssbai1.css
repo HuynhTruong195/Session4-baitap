@@ -1,0 +1,16 @@
+.header {
+    background-color: black;
+    color: white;
+    font-style: arial;
+    font-size: 20px;
+}
+body {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
+
+.trangchu li a {
+    text-decoration: none;
+}

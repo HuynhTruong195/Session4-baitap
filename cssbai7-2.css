@@ -1,0 +1,25 @@
+body {
+    margin: 100px;
+    background-image: url(https://th.bing.com/th/id/R.b99dda12e0a47f259d809a5b6bba3a53?rik=sLasA69PFZjoTA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fJgCKjTD.jpg&ehk=hFL8vWeEdymWPOdYwMTitz%2bTX%2fZuJyyt215rgAxJVuk%3d&risl=&pid=ImgRaw&r=0)
+}
+
+div {
+    text-align: center;
+    font-size: 30px;
+}
+
+.img {
+    border-radius: 15px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.welcome {
+    color: rgb(239, 6, 6);
+    font-weight: bolder;
+   font-size: 20px;
+}
+
+
